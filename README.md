@@ -1,4 +1,4 @@
-# Site_Horas
+# ⌚Site_Horas
 Exercício do curso de javascript (Curso em video)<br>
 Site exercício que mostra as horas (local) e se modifica com determinados periodo do dia. <br>
 Feito somente com HTML5, CSS3, JavaScript.
